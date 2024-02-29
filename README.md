@@ -1,4 +1,4 @@
-<img align-item="center" src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpghttps://artstribune.com/wp-content/uploads/2022/02/front-end-developer.png">
+<img align-item="center" src="[https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpghttps://artstribune.com/wp-content/uploads/2022/02/front-end-developer.png](https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg)">
 <h1 align="center">Hi 👋, I'm Mamun</h1>
 <h3 align="center">Greetings! I'm Mamun, a junior front-end developer.</h3>
 
